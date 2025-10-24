@@ -6,7 +6,7 @@
 - 🎓 I'm a **BCA 3rd year student**
 - 💻 I love **Web Development, JavaScript, and React**
 - 🚀 Currently learning **Node.js & Express**
-- 📫 How to reach me: **pintujhala@gmail.com**
+- 📫 How to reach me: **pintujhala4@gmail.com**
 
 ---
 

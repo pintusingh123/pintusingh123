@@ -2,12 +2,18 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=435&lines=Hi+I'm+Pintu+Jhala;Welcome+to+my+Profile!" alt="Typing SVG" />
 </h1>
 
-
  ## 👨‍💻 About Me
 - 🎓 I'm a **BCA 3rd year student**
 - 💻 I love **Web Development, JavaScript, and React**
 - 🚀 Currently learning **Node.js & Express & Devops **
 - 📫 How to reach me: **pintujhala4@gmail.com**
+- 
+🚀 Frontend: HTML, CSS, JavaScript, React.js,
+⚙️ Backend: Node.js, Express.js,
+🗄️ Database: MongoDB,
+🧠Data Structures & Algorithms: DSA with JavaScript,
+🖼️ Image Management &cloud storage provider-: ImageKit,
+🔧 Version Control: Git, GitHub
 
 ---
 

@@ -12,8 +12,8 @@
 ⚙️ Backend: Node.js, Express.js,
 🗄️ Database: MongoDB,
 🧠Data Structures & Algorithms: DSA with JavaScript,
-🖼️ Image Management &cloud storage provider-: ImageKit,
-🔧 Version Control: Git, GitHub
+🖼️ Image Management & cloud storage provider-: ImageKit,
+🔧 Version Control: Git, GitHub ,jira(project management tool)
 
 ---
 

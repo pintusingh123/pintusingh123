@@ -34,6 +34,6 @@
 
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="https://github.com/pintujhala"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/pintusingh123"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" /></a>
   <a href="https://linkedin.com/in/pintujhala"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" /></a>
 </p>

@@ -5,13 +5,13 @@
  ## 👨‍💻 About Me
 - 🎓 I'm a **BCA 3rd year student**
 - 💻 I love **Web Development, JavaScript, and React**
-- 🚀 Currently learning **Node.js & Express & Devops **
+- 🚀 Currently learning ** python , flask , django node.js & Express & Devops **
 - 📫 How to reach me: **pintujhala4@gmail.com**
 - 
-🚀 Frontend: HTML, CSS, JavaScript, React.js,
-⚙️ Backend: Node.js, Express.js,
-🗄️ Database: MongoDB,
-🧠Data Structures & Algorithms: DSA with JavaScript,
+🚀 Frontend: HTML, tailwindCSS, JavaScript, React.js,
+⚙️ Backend: python-flask, django, js-Node.js, Express.js,
+🗄️ Database: MongoDB ,Mysql
+🧠Data Structures & Algorithms: DSA with python,
 🖼️ Image Management & cloud storage provider-: ImageKit,
 🔧 Version Control: Git, GitHub ,jira(project management tool)
 

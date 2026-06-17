@@ -10,7 +10,7 @@
 - 
 🚀 Frontend: HTML, tailwindCSS, JavaScript, React.js,
 ⚙️ Backend: python-flask, django, js-Node.js, Express.js,
-🗄️ Database: MongoDB ,Mysql
+🗄️ Database: Mysql , PostgreSQL
 🧠Data Structures & Algorithms: DSA with python,
 🖼️ Image Management & cloud storage provider-: ImageKit,
 🔧 Version Control: Git, GitHub ,jira(project management tool)

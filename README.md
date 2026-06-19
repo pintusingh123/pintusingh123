@@ -8,7 +8,7 @@
 
 💻 Full Stack Developer with hands-on experience in modern frontend and backend development.
 
-🚀 Currently learning and exploring Django, Flask, Node.js, Express.js, DevOps, System Design (LLD), and Backend Architecture.
+🚀 Currently learning and exploring Django, Flask, FireBase, DevOps, System Design (LLD), and Backend Architecture.
 
 🌱 Continuously improving my Data Structures & Algorithms skills with Python.
 
@@ -29,8 +29,7 @@
 * Python
 * Flask
 * Django
-* Node.js
-* Express.js
+* firebase
 
 #### 🗄️ Databases
 

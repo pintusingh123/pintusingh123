@@ -2,32 +2,70 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=435&lines=Hi+I'm+Pintu+Jhala;Welcome+to+my+Profile!" alt="Typing SVG" />
 </h1>
 
- ## 👨‍💻 About Me
-- 🎓 I'm a **BCA 3rd year student**
-- 💻 I love **Web Development, JavaScript, and React**
-- 🚀 Currently learning ** python , flask , django node.js & Express & Devops **
-- 📫 How to reach me: **pintujhala4@gmail.com**
-- 
-🚀 Frontend: HTML, tailwindCSS, JavaScript, React.js,
-⚙️ Backend: python-flask, django, js-Node.js, Express.js,
-🗄️ Database: Mysql , PostgreSQL
-🧠Data Structures & Algorithms: DSA with python,
-🖼️ Image Management & cloud storage provider-: ImageKit,
-🔧 Version Control: Git, GitHub ,jira(project management tool)
+## 👨‍💻 About Me
+
+🎓 BCA Graduate passionate about building scalable web applications and solving real-world problems through technology.
+
+💻 Full Stack Developer with hands-on experience in modern frontend and backend development.
+
+🚀 Currently learning and exploring Django, Flask, Node.js, Express.js, DevOps, System Design (LLD), and Backend Architecture.
+
+🌱 Continuously improving my Data Structures & Algorithms skills with Python.
+
+📫 Reach me at: **[pintujhala4@gmail.com](mailto:pintujhala4@gmail.com)**
+
+### 🛠️ Tech Stack
+
+#### 🚀 Frontend
+
+* HTML5
+* CSS3
+* Tailwind CSS
+* JavaScript (ES6+)
+* React.js
+
+#### ⚙️ Backend
+
+* Python
+* Flask
+* Django
+* Node.js
+* Express.js
+
+#### 🗄️ Databases
+
+* MySQL
+* PostgreSQL
+
+#### 🧠 Problem Solving
+
+* Data Structures & Algorithms (Python)
+
+#### ☁️ Cloud & Media Management
+
+* ImageKit
+
+#### 🔧 Tools & Technologies
+
+* Git
+* GitHub
+* Jira
+* REST APIs
+* MVC Architecture
+
+#### 📚 Currently Exploring
+
+* DevOps
+* GitHub Actions
+* System Design (LLD)
+* Authentication & Authorization
+* Backend Scalability
 
 ---
 
 ## 🧰 Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,flask,django,git,github,mysql,postgresql" />
-</p>
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pintujhala&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pintujhala&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---

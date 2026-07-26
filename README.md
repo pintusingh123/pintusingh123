@@ -1,44 +1,75 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=0A66C2&center=true&vCenter=true&width=650&lines=Hi+👋,+I'm+Pintu+Jhala;Backend+%7C+Full+Stack+Developer;Python+%7C+Django+%7C+React+Developer;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1200&color=0A66C2&center=true&vCenter=true&width=700&lines=Hi+I'm+Pintu+Jhala;Backend+Developer;Full+Stack+Developer;Python+%7C+Django+%7C+React;Building+Scalable+Web+Applications;Always+Learning+New+Technologies" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">
-Building scalable web applications with Python, Django, React & PostgreSQL 🚀
+ Backend Developer | Full Stack Developer | Python Enthusiast
 </h3>
 
 <p align="center">
+Building scalable web applications with <strong>Django</strong>, <strong>React</strong> & <strong>PostgreSQL</strong>
+</p>
+
+<p align="center">
   <a href="https://github.com/pintusingh123">
-    <img src="https://komarev.com/ghpvc/?username=pintusingh123&label=Profile+Views&color=0e75b6&style=flat" />
+    <img src="https://komarev.com/ghpvc/?username=pintusingh123&label=Profile+Views&color=0A66C2&style=for-the-badge" />
+  </a>
+
+  <a href="https://github.com/pintusingh123?tab=followers">
+    <img src="https://img.shields.io/github/followers/pintusingh123?style=for-the-badge&logo=github&color=181717" />
+  </a>
+
+  <a href="https://github.com/pintusingh123">
+    <img src="https://img.shields.io/github/stars/pintusingh123?style=for-the-badge&logo=github&color=yellow" />
   </a>
 </p>
 
 ---
 
-# 👨‍💻 About Me
+#  About Me
 
-🎓 BCA Graduate passionate about building scalable web applications.
+🎓 BCA Graduate passionate about building scalable web applications and solving real-world problems.
 
-💻 Backend & Full Stack Developer specializing in **Python, Django, React.js, PostgreSQL, REST APIs**.
+💻 Backend & Full Stack Developer specializing in:
 
- Currently working on **AI Business OS**, a production-ready business management platform.
+- Python
+- JavaScript
+- SQL
+- Django
+- React.js
+- Next.js
+- PostgreSQL
+- MYSQL
+- Redis
+- Docker
+- REST APIs
+- Firebase
+- supabase
 
-🌱 Learning
+
+ **Currently Building**
+
+> **AI Business OS** – A complete Business Management Platform inspired by ERP & CRM systems.
+
+🌱 **Currently Learning**
 
 - Docker
 - DevOps
-- System Design
 - Redis
 - WebSockets
-- Backend Architecture
-- Scalable APIs
+- System Design
+- GitHub Actions
+- Backend Scalability
+- Clean Architecture
 
-💡 Interested in
+ **Interested In**
 
+-  Full Stack Web Development
 - Backend Development
 - SaaS Products
 - AI Applications
-- Clean Architecture
 - Cloud Deployment
+- Scalable Systems
 
 📫 **Email**
 
@@ -48,158 +79,68 @@ Building scalable web applications with Python, Django, React & PostgreSQL 🚀
 
 #  Featured Projects
 
-##  TaskFlow Pro
-
-Advanced Task Management System built using Django.
-
-### Features
-
-- Authentication
-- Task CRUD
-- Search & Filters
-- Responsive UI
-- PostgreSQL
-- Django ORM
-- Render Deployment
-
-**Tech Stack**
-
-`Django` `Python` `PostgreSQL` `Tailwind CSS`
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| 📋 **TaskFlow Pro** | Advanced task management application with authentication, CRUD, search, filters and PostgreSQL support. | Django • PostgreSQL • Tailwind CSS |
+| 🤖 **AI Business OS** *(Currently Building)* | Production-ready ERP/CRM inspired Business Operating System with multiple business modules. | Django • React • Docker • PostgreSQL |
+| 🍽️ **TapTable** | QR Code based Restaurant Ordering System with Digital Menu & Table Management. | React • Supabase • Tailwind |
+| 🛒 **E-Commerce Website** | Modern responsive online shopping platform with authentication and cart functionality. | React • Tailwind CSS |
+| 🌐 **Portfolio Website** | Personal portfolio showcasing projects, skills and contact information. | React • Tailwind CSS |
+| ✂️ **Cropify** | Image cropping web application with modern UI. | React |
+| 📷 **QR Scanner App** | Django based QR Scanner application deployed on Render. | Django |
 
 ---
 
-##  AI Business OS *(Currently Building)*
+# 💻 Tech Stack
 
-A complete Business Operating System inspired by ERP and CRM platforms.
+###  Frontend
 
-### Modules
-
-- Authentication
-- Employee Management
-- HR
-- CRM
-- Sales
-- Inventory
-- Finance
-- Dashboard
-- AI Features
-
-**Tech Stack**
-
-`Django` `React` `Docker` `PostgreSQL`
-
----
-
-##  TapTable
-
-QR Code based Restaurant Ordering System.
-
-### Features
-
-- Digital Menu
-- QR Ordering
-- User Authentication
-- Table Management
-
-**Tech Stack**
-
-`React` `Supabase` `Tailwind CSS`
-
----
-
-##  E-Commerce Website
-
-Modern responsive online shopping platform.
-
-### Features
-
-- Product Listing
-- Product Details
-- Shopping Cart
-- Authentication
-- Responsive UI
-
-**Tech Stack**
-
-`React` `Tailwind CSS`
-
----
-
-##  Employee Management System
-
-Complete Employee Management Application.
-
-### Features
-
-- Employee CRUD
-- Authentication
-- Search
-- PostgreSQL Database
-
-**Tech Stack**
-
-`Flask` `Python` `SQLAlchemy` `PostgreSQL`
-
----
-
-##  Portfolio Website
-Personal Developer Portfolio built with React.
-
-### Features
-
-- Responsive Design
-- Projects Showcase
-- Contact Section
-- Modern UI
-
-**Tech Stack**
-
-`React` `Tailwind CSS`
-
----
-
-#  Tech Stack
-
-### Frontend
-
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite" />
 </p>
 
-### Backend
+### ⚙️ Backend
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=python,django,flask,nodejs" />
 </p>
 
-### Database
+### 🗄️ Database
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=postgres,mysql,firebase" />
 </p>
 
-### DevOps & Tools
+### 🛠️ DevOps & Tools
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=docker,git,github,postman,linux,vscode" />
 </p>
 
 ---
 
-#  GitHub Stats
+# 📈 GitHub Analytics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=pintusingh123&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=pintusingh123&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=pintusingh123&theme=tokyonight"/>
+<img height="170" src="https://streak-stats.demolab.com?user=pintusingh123&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pintusingh123&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pintusingh123&layout=compact&theme=tokyonight&hide_border=true"/>
 
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pintusingh123&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
@@ -207,7 +148,17 @@ Personal Developer Portfolio built with React.
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=pintusingh123&theme=algolia&margin-w=10&margin-h=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=pintusingh123&theme=algolia&no-frame=true&row=1&column=7"/>
+</p>
+
+---
+
+# 💭 Developer Philosophy
+
+<p align="center">
+
+> **"First, solve the problem. Then, write clean, scalable and maintainable code."**
+
 </p>
 
 ---
@@ -218,27 +169,24 @@ Personal Developer Portfolio built with React.
 
 <a href="https://github.com/pintusingh123">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-
 </a>
 
 <a href="https://linkedin.com/in/pintujhala">
-
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-
 </a>
 
 <a href="mailto:pintujhala4@gmail.com">
-
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
-
 </a>
 
 </p>
 
 ---
 
-<p align="center">
-
+<h3 align="center">
 ⭐ Thanks for visiting my profile! ⭐
+</h3>
 
+<p align="center">
+If you like my work, consider giving a ⭐ to my repositories.
 </p>

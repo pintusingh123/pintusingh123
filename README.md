@@ -20,7 +20,7 @@ Building scalable web applications with Python, Django, React & PostgreSQL 🚀
 
 💻 Backend & Full Stack Developer specializing in **Python, Django, React.js, PostgreSQL, REST APIs**.
 
-🚀 Currently working on **AI Business OS**, a production-ready business management platform.
+ Currently working on **AI Business OS**, a production-ready business management platform.
 
 🌱 Learning
 
@@ -46,9 +46,9 @@ Building scalable web applications with Python, Django, React & PostgreSQL 🚀
 
 ---
 
-# 🚀 Featured Projects
+#  Featured Projects
 
-## 📌 TaskFlow Pro
+##  TaskFlow Pro
 
 Advanced Task Management System built using Django.
 
@@ -68,7 +68,7 @@ Advanced Task Management System built using Django.
 
 ---
 
-## 📌 AI Business OS *(Currently Building)*
+##  AI Business OS *(Currently Building)*
 
 A complete Business Operating System inspired by ERP and CRM platforms.
 
@@ -90,7 +90,7 @@ A complete Business Operating System inspired by ERP and CRM platforms.
 
 ---
 
-## 📌 TapTable
+##  TapTable
 
 QR Code based Restaurant Ordering System.
 
@@ -107,7 +107,7 @@ QR Code based Restaurant Ordering System.
 
 ---
 
-## 📌 E-Commerce Website
+##  E-Commerce Website
 
 Modern responsive online shopping platform.
 
@@ -125,7 +125,7 @@ Modern responsive online shopping platform.
 
 ---
 
-## 📌 Employee Management System
+##  Employee Management System
 
 Complete Employee Management Application.
 
@@ -142,8 +142,7 @@ Complete Employee Management Application.
 
 ---
 
-## 📌 Portfolio Website
-
+##  Portfolio Website
 Personal Developer Portfolio built with React.
 
 ### Features
@@ -159,7 +158,7 @@ Personal Developer Portfolio built with React.
 
 ---
 
-# 💻 Tech Stack
+#  Tech Stack
 
 ### Frontend
 
@@ -187,7 +186,7 @@ Personal Developer Portfolio built with React.
 
 ---
 
-# 📊 GitHub Stats
+#  GitHub Stats
 
 <p align="center">
 

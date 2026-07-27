@@ -171,7 +171,7 @@ Building scalable web applications with <strong>Django</strong>, <strong>React</
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://linkedin.com/in/pintujhala">
+<a href="https://www.linkedin.com/in/pintu-jhala-1612b5284/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
